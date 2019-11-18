@@ -1,0 +1,11 @@
+C:\Users\balno\source\repos\WikipediaApiDemoV2\bin\Debug\netcoreapp2.2\WikipediaApiDemoV2.deps.json
+C:\Users\balno\source\repos\WikipediaApiDemoV2\bin\Debug\netcoreapp2.2\WikipediaApiDemoV2.runtimeconfig.json
+C:\Users\balno\source\repos\WikipediaApiDemoV2\bin\Debug\netcoreapp2.2\WikipediaApiDemoV2.runtimeconfig.dev.json
+C:\Users\balno\source\repos\WikipediaApiDemoV2\bin\Debug\netcoreapp2.2\WikipediaApiDemoV2.dll
+C:\Users\balno\source\repos\WikipediaApiDemoV2\obj\Debug\netcoreapp2.2\WikipediaApiDemoV2.csprojAssemblyReference.cache
+C:\Users\balno\source\repos\WikipediaApiDemoV2\obj\Debug\netcoreapp2.2\WikipediaApiDemoV2.csproj.CoreCompileInputs.cache
+C:\Users\balno\source\repos\WikipediaApiDemoV2\obj\Debug\netcoreapp2.2\WikipediaApiDemoV2.AssemblyInfoInputs.cache
+C:\Users\balno\source\repos\WikipediaApiDemoV2\obj\Debug\netcoreapp2.2\WikipediaApiDemoV2.AssemblyInfo.cs
+C:\Users\balno\source\repos\WikipediaApiDemoV2\bin\Debug\netcoreapp2.2\WikipediaApiDemoV2.pdb
+C:\Users\balno\source\repos\WikipediaApiDemoV2\obj\Debug\netcoreapp2.2\WikipediaApiDemoV2.dll
+C:\Users\balno\source\repos\WikipediaApiDemoV2\obj\Debug\netcoreapp2.2\WikipediaApiDemoV2.pdb
